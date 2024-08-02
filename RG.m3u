@@ -4,7 +4,7 @@ http://171.118.222.151:9999/tsfile/live/0008_1.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-6电影" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV-6电影
 http://171.118.222.151:9999/tsfile/live/0006_1.m3u8
 
-#EXTINF:-1 group-title="央视台" tvg-id="CCTV-16奥林匹克" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV-16奥林匹克
+#EXTINF:-1 奥林匹克
 http://123.189.36.4:9901/tsfile/live/1027_1.m3u8
 
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="地方频道",五星体育
