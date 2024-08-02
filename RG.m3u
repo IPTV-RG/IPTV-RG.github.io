@@ -1,18 +1,12 @@
+#EXTINF:-1 CCTV-5体育
+http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225489/index.m3u8
 #EXTINF:-1 CCTV-6电影
-http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
+http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225495/index.m3u8
 #EXTINF:-1 CCTV-8电视剧
-http://59.173.183.242:9901/tsfile/live/0008_1.m3u8
-#EXTINF:-1 CCTV-16奥林匹克
-http://123.189.36.4:9901/tsfile/live/1027_1.m3u8
+http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225492/index.m3u8
 #EXTINF:-1 五星体育
 http://180.159.122.162:10001/udp/239.45.3.210:5140
 #EXTINF:-1 东方卫视
-http://58.23.26.184:9901/tsfile/live/0107_1.m3u8
-#EXTINF:-1 上海东方购物频道
-http://ocj2.kksmg.com/ocj2/ocj2.m3u8
-#EXTINF:-1 上海金山电视台
-http://livejs1.newsjs.net/jspd/playlist.m3u
-#EXTINF:-1 崇明电视台
-https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u
+http://jxcbn.ws-cdn.gitv.tv/hls/DONGFHD/index.m3u8?gMac=unknown&livodToken=3372ee
 #EXTINF:-1 湖南卫视
-http://58.23.26.184:9901/tsfile/live/0128_1.m3u8	
+http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225506/index.m3u8
